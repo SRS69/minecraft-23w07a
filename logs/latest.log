@@ -1,116 +1,53 @@
-[15:26:04] [ServerMain/INFO]: Building unoptimized datafixer
-[15:26:05] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:26:08] [ServerMain/INFO]: Loaded 7 recipes
-[15:26:08] [ServerMain/INFO]: Loaded 1180 advancements
-[15:26:09] [Server thread/INFO]: Starting minecraft server version 23w07a
-[15:26:09] [Server thread/INFO]: Loading properties
-[15:26:09] [Server thread/INFO]: Default game type: SURVIVAL
-[15:26:09] [Server thread/INFO]: Generating keypair
-[15:26:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:26:09] [Server thread/INFO]: Using epoll channel type
-[15:26:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:26:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:26:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:26:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:26:10] [Server thread/INFO]: Preparing level "world"
-[15:26:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:26:13] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:26:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:26:13] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:26:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:26:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:26:14] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:26:14] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[15:26:15] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[15:26:15] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[15:26:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:26:16] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:26:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:26:17] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:26:18] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:26:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:26:19] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:26:19] [Worker-Main-4/INFO]: Preparing spawn area: 1%
-[15:26:20] [Worker-Main-4/INFO]: Preparing spawn area: 2%
-[15:26:20] [Worker-Main-3/INFO]: Preparing spawn area: 4%
-[15:26:21] [Worker-Main-5/INFO]: Preparing spawn area: 5%
-[15:26:21] [Worker-Main-3/INFO]: Preparing spawn area: 6%
-[15:26:22] [Worker-Main-3/INFO]: Preparing spawn area: 7%
-[15:26:22] [Worker-Main-2/INFO]: Preparing spawn area: 7%
-[15:26:23] [Worker-Main-1/INFO]: Preparing spawn area: 7%
-[15:26:23] [Worker-Main-6/INFO]: Preparing spawn area: 9%
-[15:26:24] [Worker-Main-4/INFO]: Preparing spawn area: 12%
-[15:26:24] [Worker-Main-3/INFO]: Preparing spawn area: 13%
-[15:26:25] [Worker-Main-4/INFO]: Preparing spawn area: 13%
-[15:26:25] [Worker-Main-7/INFO]: Preparing spawn area: 13%
-[15:26:26] [Worker-Main-1/INFO]: Preparing spawn area: 14%
-[15:26:26] [Worker-Main-3/INFO]: Preparing spawn area: 17%
-[15:26:27] [Worker-Main-2/INFO]: Preparing spawn area: 20%
-[15:26:27] [Worker-Main-5/INFO]: Preparing spawn area: 22%
-[15:26:28] [Worker-Main-1/INFO]: Preparing spawn area: 25%
-[15:26:28] [Worker-Main-4/INFO]: Preparing spawn area: 32%
-[15:26:29] [Worker-Main-5/INFO]: Preparing spawn area: 35%
-[15:26:29] [Worker-Main-4/INFO]: Preparing spawn area: 37%
-[15:26:30] [Worker-Main-6/INFO]: Preparing spawn area: 42%
-[15:26:30] [Worker-Main-4/INFO]: Preparing spawn area: 51%
-[15:26:31] [Worker-Main-7/INFO]: Preparing spawn area: 64%
-[15:26:31] [Worker-Main-7/INFO]: Preparing spawn area: 71%
-[15:26:32] [Worker-Main-6/INFO]: Preparing spawn area: 84%
-[15:26:32] [Worker-Main-2/INFO]: Preparing spawn area: 93%
-[15:26:32] [Server thread/INFO]: Time elapsed: 21162 ms
-[15:26:32] [Server thread/INFO]: Done (22.763s)! For help, type "help"
-[15:26:32] [Server thread/INFO]: biazzi[/10.147.17.120:49311] logged in with entity id 188 at (37.825484268666806, 107.0, 171.69999998807907)
-[15:26:32] [Server thread/INFO]: biazzi joined the game
-[15:26:59] [Server thread/INFO]: biazzi was doomed to fall by Zombie
-[15:27:00] [Server thread/INFO]: MAX13666[/10.147.17.230:55925] logged in with entity id 333 at (-17.922437544072423, 117.0, 53.779177972737905)
-[15:27:00] [Server thread/INFO]: MAX13666 joined the game
-[15:27:07] [Server thread/INFO]: Matt-Exe01[/10.147.17.96:60128] logged in with entity id 492 at (53.68167877490789, -34.0, 295.3358279762645)
-[15:27:07] [Server thread/INFO]: Matt-Exe01 joined the game
-[15:27:08] [Server thread/INFO]: Matt-Exe01 lost connection: Disconnected
-[15:27:08] [Server thread/INFO]: Matt-Exe01 left the game
-[15:27:18] [Server thread/INFO]: Matt-Exe01[/10.147.17.96:60140] logged in with entity id 605 at (53.68167877490789, -34.0, 295.3358279762645)
-[15:27:18] [Server thread/INFO]: Matt-Exe01 joined the game
-[15:27:50] [Server thread/INFO]: Matt-Exe01 was obliterated by a sonically-charged shriek
-[15:28:00] [Server thread/INFO]: biazzi fell from a high place
-[15:29:13] [Server thread/INFO]: Matt-Exe01 has made the advancement [Suit Up]
-[15:29:33] [Server thread/INFO]: MAX13666 was doomed to fall by Matt-Exe01
-[15:30:28] [Server thread/INFO]: biazzi was doomed to fall by Zombie
-[15:32:48] [Server thread/INFO]: biazzi lost connection: Disconnected
-[15:32:48] [Server thread/INFO]: biazzi left the game
-[15:38:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23845ms or 476 ticks behind
-[15:41:05] [Server thread/INFO]: Matt-Exe01 lost connection: Timed out
-[15:41:05] [Server thread/INFO]: Matt-Exe01 left the game
-[15:41:33] [Server thread/INFO]: Matt-Exe01[/10.147.17.96:50701] logged in with entity id 8094 at (947.9535216624013, 91.0, 1005.3927345919003)
-[15:41:33] [Server thread/INFO]: Matt-Exe01 joined the game
-[15:45:28] [Server thread/INFO]: MAX13666 has made the advancement [Sweet Dreams]
-[15:45:33] [Server thread/INFO]: Matt-Exe01 has made the advancement [Sweet Dreams]
-[15:53:44] [Server thread/INFO]: MAX13666 has made the advancement [Diamonds!]
-[15:57:14] [Server thread/INFO]: Matt-Exe01 fell from a high place
-[15:57:26] [Server thread/INFO]: [Not Secure] <MAX13666> 1268 -51 994
-[15:57:35] [Server thread/INFO]: [Not Secure] <MAX13666> mega iron vain
-[16:00:34] [Server thread/INFO]: Matt-Exe01 lost connection: Timed out
-[16:00:34] [Server thread/INFO]: Matt-Exe01 left the game
-[16:00:44] [Server thread/INFO]: Matt-Exe01[/10.147.17.96:55272] logged in with entity id 13832 at (1254.4378363968306, -4.97557591178632, 947.9216498190658)
-[16:00:44] [Server thread/INFO]: Matt-Exe01 joined the game
-[16:01:14] [Server thread/INFO]: Matt-Exe01 lost connection: Timed out
-[16:01:14] [Server thread/INFO]: Matt-Exe01 left the game
-[16:01:23] [Server thread/INFO]: Matt-Exe01[/10.147.17.96:55306] logged in with entity id 14029 at (1252.7908281434795, 2.0, 995.6596554197284)
-[16:01:23] [Server thread/INFO]: Matt-Exe01 joined the game
-[16:10:25] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[16:10:25] [Server thread/INFO]: <--[HERE]
-[16:10:40] [Server thread/INFO]: [Not Secure] [Server] 🤡🤡
-[16:16:55] [Server thread/INFO]: Matt-Exe01 lost connection: Disconnected
-[16:16:55] [Server thread/INFO]: Matt-Exe01 left the game
-[16:18:07] [Server thread/INFO]: MAX13666 lost connection: Disconnected
-[16:18:07] [Server thread/INFO]: MAX13666 left the game
-[16:29:41] [Server thread/INFO]: Stopping the server
-[16:29:41] [Server thread/INFO]: Stopping server
-[16:29:41] [Server thread/INFO]: Saving players
-[16:29:41] [Server thread/INFO]: Saving worlds
-[16:29:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:29:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:29:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:29:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:29:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:29:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:29:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:41:34] [ServerMain/INFO]: Building unoptimized datafixer
+[19:41:35] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:41:37] [ServerMain/INFO]: Loaded 7 recipes
+[19:41:37] [ServerMain/INFO]: Loaded 1180 advancements
+[19:41:38] [Server thread/INFO]: Starting minecraft server version 23w07a
+[19:41:38] [Server thread/INFO]: Loading properties
+[19:41:38] [Server thread/INFO]: Default game type: SURVIVAL
+[19:41:38] [Server thread/INFO]: Generating keypair
+[19:41:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:41:38] [Server thread/INFO]: Using epoll channel type
+[19:41:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:41:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:41:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:41:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:41:38] [Server thread/INFO]: Preparing level "world"
+[19:41:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:41:40] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:41:40] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:41:40] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:41:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:41:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:41:42] [Worker-Main-6/INFO]: Preparing spawn area: 7%
+[19:41:42] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[19:41:43] [Worker-Main-5/INFO]: Preparing spawn area: 18%
+[19:41:43] [Worker-Main-5/INFO]: Preparing spawn area: 20%
+[19:41:44] [Worker-Main-1/INFO]: Preparing spawn area: 90%
+[19:41:44] [Server thread/INFO]: Time elapsed: 4535 ms
+[19:41:44] [Server thread/INFO]: Done (6.134s)! For help, type "help"
+[19:46:44] [Server thread/INFO]: MAX13666[/10.147.17.230:50415] logged in with entity id 86 at (1296.1063268948415, -50.0, 1023.6561821864377)
+[19:46:44] [Server thread/INFO]: MAX13666 joined the game
+[19:46:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2719ms or 54 ticks behind
+[19:51:40] [Server thread/INFO]: [Not Secure] [Server] daje roma
+[19:52:20] [Server thread/INFO]: MAX13666 burned to death
+[19:54:04] [Server thread/INFO]: MAX13666 has made the advancement [Ice Bucket Challenge]
+[20:07:07] [Server thread/INFO]: [Not Secure] <MAX13666> 2360 65 1150 dark cock and bamboo
+[20:10:44] [Server thread/WARN]: Mismatch in destroy block pos: gr{x=2223, y=64, z=811} gr{x=2223, y=62, z=812}
+[20:10:44] [Server thread/WARN]: Mismatch in destroy block pos: gr{x=2223, y=64, z=811} gr{x=2223, y=62, z=812}
+[20:17:56] [Server thread/INFO]: MAX13666 fell from a high place
+[20:20:28] [Server thread/INFO]: MAX13666 lost connection: Disconnected
+[20:20:28] [Server thread/INFO]: MAX13666 left the game
+[21:10:03] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:10:03] [Server thread/INFO]: <--[HERE]
+[21:10:08] [Server thread/INFO]: Stopping the server
+[21:10:08] [Server thread/INFO]: Stopping server
+[21:10:08] [Server thread/INFO]: Saving players
+[21:10:08] [Server thread/INFO]: Saving worlds
+[21:10:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:10:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:10:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:10:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:10:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:10:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:10:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
