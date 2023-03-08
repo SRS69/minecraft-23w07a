@@ -870,24 +870,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/recovery_compass": {
-    "criteria": {
-      "has_echo_shard": "2023-03-08 14:57:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2023-03-08 14:57:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/music_disc_5": {
-    "criteria": {
-      "has_disc_fragment_5": "2023-03-08 14:58:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2023-03-08 14:52:36 +0000"
@@ -897,6 +879,24 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2023-03-08 14:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2023-03-08 14:57:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2023-03-08 14:57:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2023-03-08 14:58:11 +0000"
     },
     "done": true
   },
