@@ -1,1 +1,1 @@
-java -Xmx6144M -Xms6144M -jar 23w07a.jar nogui
+java -Xmx13312M -Xms13312M -jar 23w07a.jar nogui
