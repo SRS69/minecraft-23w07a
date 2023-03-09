@@ -8,7 +8,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2023-03-08 14:26:38 +0000",
+      "minecraft:river": "2023-03-09 14:23:00 +0000",
       "minecraft:dripstone_caves": "2023-03-08 15:07:33 +0000",
+      "minecraft:grove": "2023-03-09 14:16:03 +0000",
       "minecraft:forest": "2023-03-08 15:03:28 +0000",
       "minecraft:frozen_peaks": "2023-03-08 14:37:28 +0000",
       "minecraft:deep_dark": "2023-03-08 14:45:29 +0000",
@@ -846,6 +848,18 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2023-03-08 15:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2023-03-09 14:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2023-03-09 14:23:06 +0000"
     },
     "done": true
   },
